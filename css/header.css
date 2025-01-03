@@ -1,0 +1,27 @@
+.header {
+	margin: 3.75rem 0;
+}
+.header__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.header__logo {
+}
+.header__content {
+	display: flex;
+	gap: 2.5rem;
+}
+.header__menu {
+	display: flex;
+	align-items: center;
+	gap: 2.5rem;
+}
+.header__menu li a{
+	text-transform: capitalize;
+}
+.header__button {
+	background-color: #fff;
+	border:solid 1px #191A23;
+	color: #000;
+}
