@@ -21,7 +21,7 @@
 	text-transform: capitalize;
 }
 .header__button {
-	background-color: #fff;
-	border:solid 1px #191A23;
-	color: #000;
+	background-color: var(--white);
+	border:solid 1px var(--dark);
+	color: var(--black);
 }
