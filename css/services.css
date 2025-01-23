@@ -4,15 +4,12 @@
 .services__container {
 }
 .services__info {
-	display: flex;
-	align-items: center;
-	gap: 40px;
+	
 }
 .services__title {
 }
 .servies__subtitle {
-	max-width: 36.25rem;
-	font-size: 1.125rem;
+	
 }
 .services__content {
 	margin-top: 5rem;
