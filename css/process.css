@@ -1,0 +1,34 @@
+.process {
+	
+}
+.process__container {
+}
+.process__info {
+}
+.section-info {
+}
+
+.process__content { 
+	margin-top: 5rem;
+}
+.process__step {
+	background-color: var(--grey);
+	border-radius: 45px;
+	border: 1px solid var(--dark);
+	padding: 2.5625rem 3.75rem;
+}
+.process__step-top {
+	display: flex;
+	justify-content: space-between;
+}
+.process_step-info {
+	display: flex;
+}
+.process__step-number {
+}
+.process__step-title {
+}
+.process__step-button {
+}
+.process__step-bottom {
+}
